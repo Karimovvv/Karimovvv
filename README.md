@@ -16,7 +16,7 @@ I love the entire process of developing creative websites. I love the challenge 
 <a href="https://www.instagram.com/KarimovvvIslammm/">
     <img src="https://raw.githubusercontent.com/Karimovvv/Karimovvv/main/square-instagram.svg" alt="Instagram" width="30" height="30">
 </a>
-<a href="https://www.linkedin.com/in/karimovislom/">
+<a href="https://www.linkedin.com/in/karimov-islom-6171b228a/">
     <img src="https://raw.githubusercontent.com/Karimovvv/Karimovvv/main/linkedin.svg" alt="LinkedIn" width="30" height="30">
 </a>
 </br>
