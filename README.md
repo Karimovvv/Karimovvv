@@ -13,8 +13,12 @@ I'm a Web Developer 💻
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 ### 🤝 Connect with me:
-
-[![Instagram](https://raw.githubusercontent.com/Karimovvv/Karimovvv/main/linkedin.svg)](https://www.instagram.com/KarimovvvIslammm/)
+<a href="https://www.instagram.com/KarimovvvIslammm/">
+    <img src="https://raw.githubusercontent.com/Karimovvv/Karimovvv/main/square-instagram.svg" alt="Instagram" width="30" height="30">
+</a>
+<a href="https://www.linkedin.com/in/karimovislom/">
+    <img src="https://raw.githubusercontent.com/Karimovvv/Karimovvv/main/linkedin.svg" alt="LinkedIn" width="30" height="30">
+</a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
