@@ -14,7 +14,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ### 🤝 Connect with me:
 
-[![Instagram](file:///C:/Users/Karimov/Downloads/square-instagram.svg)](https://www.instagram.com/KarimovvvIslammm/)
+[![Instagram](https://raw.githubusercontent.com/Karimovvv/Karimovvv/main/linkedin.svg)](https://www.instagram.com/KarimovvvIslammm/)
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
