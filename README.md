@@ -24,10 +24,10 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🔭 I'm currently working on
 
-- My old projects
-- Restaurant Recommendation App (React)
+- My old project
+- Real Estate web application (React)
 - Mobile + Desktop Spotify Clone (Working on it soon...)
-- My CSS skill
+- My CSS skills
 
 ## 🌱 I'm currently learning
 
