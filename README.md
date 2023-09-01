@@ -1,9 +1,9 @@
 <p align="center">
-  <a alt="my banner"></a>
+  <a href="https://github.com/Karimovvv/Karimovvv/blob/main/photo_2023-07-16_19-55-59.jpg" alt="my banner"></a>
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://github.com/Karimovvv/Karimovvv/blob/main/photo_2023-07-16_19-55-59.jpg" target="_blank" rel="noreferrer">Karimov Islom</a> 👋
+Hi there, I'm <a href="" target="_blank" rel="noreferrer">Karimov Islom</a> 👋
 </h3>
 
 <h2 align="center">
