@@ -22,21 +22,21 @@ I love the entire process of developing creative websites. I love the challenge 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
+### 🔭 I'm currently working on
 
 - My old project
 - Real Estate web application (React)
 - Mobile + Desktop Spotify Clone (Working on it soon...)
 - My CSS skills
 
-## 🌱 I'm currently learning
+### 🌱 I'm currently learning
 
 - 📱 React
 - Firebase
 - React Context API
 - Styled Components  
 
-## 💼 Technical Skills
+### 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
