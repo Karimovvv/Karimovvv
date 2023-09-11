@@ -34,7 +34,14 @@ I love the entire process of developing creative websites. I love the challenge 
 - 📱 React
 - Firebase
 - React Context API
-- Styled Components  
+- Styled Components
+- Advanced JavaScript
+
+ ### 💬 Plans for the future 
+ - Learn Python
+ - Backend developing skills
+ - MySQL (for databases)
+ - MongoBD (for databases)
 
 ### 💼 Technical Skills
 
