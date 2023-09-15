@@ -27,6 +27,7 @@ I love the entire process of developing creative websites. I love the challenge 
 - My old project
 - Real Estate web application (React)
 - Mobile + Desktop Spotify Clone (Working on it soon...)
+- improving Javascript 
 - My CSS skills
 
 ### 🌱 I'm currently learning
@@ -42,6 +43,7 @@ I love the entire process of developing creative websites. I love the challenge 
  - Backend developing skills
  - MySQL (for databases)
  - MongoBD (for databases)
+ - full stack developer
 
 ### 💼 Technical Skills
 
