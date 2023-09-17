@@ -38,6 +38,10 @@ I love the entire process of developing creative websites. I love the challenge 
 - Styled Components
 - Advanced JavaScript
 
+###⚡ Tools
+ - VS code texter
+ - figma for design
+
  ### 💬 Plans for the future 
  - Learn Python
  - Backend developing skills
