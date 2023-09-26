@@ -48,6 +48,7 @@ I love the entire process of developing creative websites. I love the challenge 
  - MySQL (for databases)
  - MongoBD (for databases)
  - full stack developer
+ - graduate cs50 course 
 
 ### 💼 Technical Skills
 
