@@ -45,8 +45,7 @@ I love the entire process of developing creative websites. I love the challenge 
  ### 💬 Plans for the future 
  - Learn Python
  - Backend developing skills
- - MySQL (for databases)
- - MongoBD (for databases)
+ - SQL (for databases )
  - full stack developer
  - graduate cs50 course 
 
