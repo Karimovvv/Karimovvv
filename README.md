@@ -3,11 +3,11 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="" target="_blank" rel="noreferrer">Karimov Islom</a> 👋
+Hi there, I'm <a href="https://gericht-restaurant-chi-five.vercel.app/" target="_blank" rel="noreferrer">Karimov Islom</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Web Developer 💻
+I'm a Softrware Developer 💻
 </h2> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
@@ -28,11 +28,11 @@ I love the entire process of developing creative websites. I love the challenge 
 - Real Estate web application (React)
 - Mobile + Desktop Spotify Clone (Working on it soon...)
 - improving Javascript 
-- My CSS skills
+- algorithms and collection datas
 
 ### 🌱 I'm currently learning
 
-- 📱 React
+- 📱 ReactJS
 - Firebase
 - React Context API
 - Styled Components
