@@ -10,7 +10,7 @@ Hi there, I'm <a href="https://gericht-restaurant-chi-five.vercel.app/" target="
 I'm a Softrware Developer 💻
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I love the entire process of developing creative AI modelus. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 ### 🤝 Connect with me:
 <a href="https://www.instagram.com/KarimovvvIslammm/ target=_blank">
@@ -25,18 +25,18 @@ I love the entire process of developing creative websites. I love the challenge 
 ### 🔭 I'm currently working on
 
 - My old project
-- Real Estate web application (React)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- improving Javascript 
+- Python for ML
+- Databases
+- improving Python skills
 - algorithms and collection datas
 
 ### 🌱 I'm currently learning
 
-- 📱 ReactJS
-- Firebase
-- React Context API
-- Styled Components
-- Advanced JavaScript
+- 📱 Python for AI
+- DATABASES
+- SQL
+- POSTGRES
+- ML
 
 ⚡ Tools
  - VS code texter
@@ -46,7 +46,7 @@ I love the entire process of developing creative websites. I love the challenge 
  - Learn Python
  - Backend developing skills
  - SQL (for databases )
- - full stack developer
+ - Creating AI 
  - graduate cs50 course 
 
 ### 💼 Technical Skills
